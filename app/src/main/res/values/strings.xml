@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Oneq10</string>
+    <string name="logout">Quit</string>
 </resources>
