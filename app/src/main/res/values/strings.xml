@@ -1,4 +1,15 @@
 <resources>
     <string name="app_name">Oneq10</string>
     <string name="logout">Quit</string>
+    <string name="back">back</string>
+
+    <!-- search  -->
+    <string name="fixedSearchTimeShort">5分以内</string>
+    <string name="fixedSearchTimeLong">10分以内</string>
+    <string name="dateSelect">日付指定</string>
+    <string name="timeSelect">時間帯指定</string>
+    <string name="timeRangeMark">~</string>
+    <string name="payAmount">決済金額</string>
+    <string name="paySearch">検索</string>
+
 </resources>
